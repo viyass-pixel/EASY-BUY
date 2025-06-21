@@ -33,3 +33,5 @@ Follow these steps to get EasyBuy up and running on your local machine.
 ```bash
 git clone https://github.com/yourusername/EasyBuy.git
 cd EasyBuy
+pip install django
+
